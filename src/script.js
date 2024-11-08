@@ -1,1 +1,0 @@
-const paragraphs = document.getElementsByTagName("p")
